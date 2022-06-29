@@ -1,6 +1,6 @@
 # CRA-WP DREU Research 2022 - Veronica Flores     
-@ the Vision, Language, and Learning Lab (Vislang), Rice University   
-Under the advice of Dr.Vicente Ordóñez-Román
+**@ the Vision, Language, and Learning Lab (*Vislang*), Rice University   
+Under the advice of Dr.Vicente Ordóñez-Román**
 
 **Veronica Flores**   
 *B.S. Candidate, Computer Science and Engineering  
@@ -10,7 +10,7 @@ Departments of [Mathematics](https://www.scu.edu/cas/mathcs/) and [Political Sci
 **Santa Clara University**   
 vflores@scu.edu
 
-## About Me:
+## [About Me](https://github.com/veronicaflores/veronicaflores.github.io/edit/main/README.md#about-me):
 
 ## About My Mentor:
 
