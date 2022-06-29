@@ -10,7 +10,13 @@ Departments of [Mathematics](https://www.scu.edu/cas/mathcs/) and [Political Sci
 **Santa Clara University**   
 vflores@scu.edu
 
-## [About Me](https://github.com/veronicaflores/veronicaflores.github.io/edit/main/README.md#about-me):
+### Table of Contents
+- [About Me](https://github.com/veronicaflores/veronicaflores.github.io/edit/main/README.md#about-me)
+- [About My Mentor](https://github.com/veronicaflores/veronicaflores.github.io/edit/main/README.md#about-my-mentor)
+- [About My Internship](https://github.com/veronicaflores/veronicaflores.github.io/edit/main/README.md#about-my-internship)
+- My Blog (*of weekly updates*)
+
+## About Me:
 
 ## About My Mentor:
 
