@@ -28,7 +28,7 @@ the Department of Computer Science at Rice University.
 
 ## About My Mentor:
 <p align="left">
-  <img width="220" height="200" src="https://www.cs.rice.edu/~vo9/images/vicente-2021-small.jpg">
+  <img width="220" height="210" src="https://www.cs.rice.edu/~vo9/images/vicente-2021-small.jpg">
 </p>
 
 ## About My Internship:
