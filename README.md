@@ -17,7 +17,8 @@ vflores@scu.edu
 - My Blog (*of weekly updates*)
 
 ## About Me:
-![IMG_9647 Small](https://user-images.githubusercontent.com/52052151/176518950-d15a7687-f8b0-4da6-8a46-5a05ebfa450d.jpg)**Veronica Flores**
+**Veronica Flores**
+![IMG_9647 Small](https://user-images.githubusercontent.com/52052151/176518950-d15a7687-f8b0-4da6-8a46-5a05ebfa450d.jpg =250x250)
 
 
 
