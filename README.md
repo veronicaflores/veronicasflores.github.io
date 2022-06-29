@@ -1,5 +1,5 @@
 # CRA-WP DREU Research 2022 - Veronica Flores     
-**@ the Vision, Language, and Learning Lab (*[Vislang](https://www.vislang.ai/))*), Rice University   
+**@ the Vision, Language, and Learning Lab (*[Vislang](https://www.vislang.ai/))*, Rice University   
 Under the advice of Dr.Vicente Ordóñez-Román**
 
 **Veronica Flores**   
@@ -19,12 +19,17 @@ vflores@scu.edu
 ## About Me:
 ![IMG_9647 Veronica Flores](https://user-images.githubusercontent.com/52052151/176528063-05011859-1ee9-4bdd-95a1-f140b0ee56dd.jpg)   
 My name is Veronica Flores and I am a rising sophomore majoring in Computer Science & Engineering from Santa clara University in California. 
-I am also double minoring in Mathematics and Political Science and plan to graduate in Spring 2025. This Summer, I am researching in the 
-Vision, Language, and Learning Lab at Rice University through the CRA-WP DREU Program. My host is Associate Professor Vicente Ordóñez-Román from
-the Department of Computer Science at Rice University. In the past, I have researched at [Oregon State University](https://oregonstate.edu/) under the advice of Dr.Stephen Ramsey in the *[ramseylab](https://lab.saramsey.org/)* through
+I am also double minoring in Mathematics and Political Science and plan to graduate in Spring 2025. 
+In the past, I have researched at [Oregon State University](https://oregonstate.edu/) under the advice of Dr.Stephen Ramsey in the *[ramseylab](https://lab.saramsey.org/)* through the
 Department of Biological Science in the [School of Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/).
+This Summer, I am researching in the Vision, Language, and Learning Lab at Rice University through the CRA-WP DREU Program. 
+My host is Associate Professor Vicente Ordóñez-Román from
+the Department of Computer Science at Rice University. 
 
 ## About My Mentor:
+<p align="left">
+  <img width="220" height="200" src="https://www.cs.rice.edu/~vo9/images/vicente-2021-small.jpg">
+</p>
 
 ## About My Internship:
 
