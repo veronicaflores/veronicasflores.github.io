@@ -14,8 +14,7 @@ Where I show you weekly updates of my work!
 **June 27th:** <br/>    
 I began my research this week in person where I met with Professor Vicente Ordóñez Román and we went over onboarding tasks and started to figure
 out a more specific project that I would be working on this summer. Initially we discussed three different topics: vision+language generation, 
-image bias removal and analysis, image and text retrieval. However, we found that starting with bias removal and analysis would be a good
-start. 
+image bias removal and analysis, image and text retrieval. However, we found that starting with bias removal and analysis would be good. 
 
 The first machine learning model introduced was the [CLIP Model](https://openai.com/blog/clip/): 
 
@@ -40,5 +39,13 @@ of equivalent accuracy.
 The articles I read where to familiarize myself with machine learning models, image and/or text retriaval, and bias removal and analysis.
 
 **June 29:** <br/>
+On this day, my mentor and I looked at some other helpful research articles for my summer research as well as went over some of the major parts
+of Python coding that I would need for this internship.
+
+Some of the more complex aspects of Python coding when applied to artificial intelligence are understanding tensors and how they are displayed in images.
+Along with manipulating images using the tensors of the image. 
+<p align="center">
+  <img width="699" alt="Screen Shot 2022-07-01 at 1 31 10 PM" src="https://user-images.githubusercontent.com/52052151/176951712-87868a39-ff2e-4113-b11c-aa408b81c9c9.png">
+</p>
 
 [Back to Home Page](README.md)
