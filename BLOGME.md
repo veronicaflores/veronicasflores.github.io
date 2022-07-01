@@ -23,7 +23,7 @@ The first machine learning model introduced was the [CLIP Model](https://openai.
 ## Week 2 (July 4th - July 8th)
 *Upcoming*
 
-## Week 2 (July 11th - July 15th)
+## Week 3 (July 11th - July 15th)
 *Upcoming*
 
 [Back to Home Page](README.md)
