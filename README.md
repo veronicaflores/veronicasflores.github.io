@@ -42,6 +42,8 @@ Empirical Methods in Natural Language Processing (EMNLP), and the Best Paper Mar
 I have also received an NSF CAREER Award, an IBM Faculty Award, a Google Faculty Research Award, and a Facebook Research Award. Here is a link to an official bio, and my curriculum vitae.
 
 ## About My Internship:
+This summer, I plan to focus on image bias removal and analysis evaluating image and text retrieval. My goal is to detect where there is bias, maybe in 
+gender or superirority, within image and text machine learning modules and begin brainstorming solutions to these biases. 
 
 
 veronicaflores.github.io
