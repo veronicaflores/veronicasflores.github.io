@@ -8,3 +8,5 @@ Where I show you weekly updates of my work!
 - Week 2
 - Week 3
 - Week 4
+
+## Week 1
