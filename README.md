@@ -45,6 +45,6 @@ I have also received an NSF CAREER Award, an IBM Faculty Award, a Google Faculty
 This summer, I plan to focus on image bias removal and analysis evaluating image and text retrieval. My goal is to detect where there is bias, maybe in 
 gender or superirority, within image and text machine learning modules and begin brainstorming solutions to these biases. 
 
-[Check my blog for weekly updates!](BLOGME.md)
+**[Check my blog for weekly updates!](BLOGME.md)**
 
-https://veronicaflores.github.io/
+*https://veronicaflores.github.io/*
