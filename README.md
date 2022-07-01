@@ -48,4 +48,5 @@ gender or superirority, within image and text machine learning modules and begin
 **[Check my blog for weekly updates!](BLOGME.md)**
 
 <br/>
+
 *https://veronicaflores.github.io/*
