@@ -45,7 +45,19 @@ of Python coding that I would need for this internship.
 Some of the more complex aspects of Python coding when applied to artificial intelligence are understanding tensors and how they are displayed in images.
 Along with manipulating images using the tensors of the image. 
 <p align="center">
-  <img width="699" alt="Screen Shot 2022-07-01 at 1 31 10 PM" src="https://user-images.githubusercontent.com/52052151/176951712-87868a39-ff2e-4113-b11c-aa408b81c9c9.png">
+  <img width="600" img height="400" alt="Screen Shot 2022-07-01 at 1 31 10 PM" src="https://user-images.githubusercontent.com/52052151/176951712-87868a39-ff2e-4113-b11c-aa408b81c9c9.png">
 </p>
+
+In order to learn the Python information and coding for this research we use one of Professor Vicente Ordóñez Román's Python tutorials from a Google 
+Collab Notebook. 
+
+**July 1:** <br/>
+On this day we discussed progress on articles and learning about machine learning from the Professor's recorded lectures. As well as discussed
+what should be done for next week.
+
+*Upcoming*
+- Run on Google Collab – the CLIP model
+- Try some experiments with this model using your own data your own images and text prompts
+- Report here how well is the model doing for some of these.
 
 [Back to Home Page](README.md)
