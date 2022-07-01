@@ -14,7 +14,7 @@ vflores@scu.edu
 - [About Me](https://github.com/veronicaflores/veronicaflores.github.io/edit/main/README.md#about-me)
 - [About My Mentor](https://github.com/veronicaflores/veronicaflores.github.io/edit/main/README.md#about-my-mentor)
 - [About My Internship](https://github.com/veronicaflores/veronicaflores.github.io/edit/main/README.md#about-my-internship)
-- My Blog (*of weekly updates*)
+- [My Blog (*of weekly updates*)](BLOGME.md)
 
 ## About Me:
 ![IMG_9647 Veronica Flores](https://user-images.githubusercontent.com/52052151/176528063-05011859-1ee9-4bdd-95a1-f140b0ee56dd.jpg)   
@@ -44,6 +44,5 @@ I have also received an NSF CAREER Award, an IBM Faculty Award, a Google Faculty
 ## About My Internship:
 This summer, I plan to focus on image bias removal and analysis evaluating image and text retrieval. My goal is to detect where there is bias, maybe in 
 gender or superirority, within image and text machine learning modules and begin brainstorming solutions to these biases. 
-
 
 https://veronicaflores.github.io/
