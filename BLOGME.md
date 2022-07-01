@@ -9,7 +9,7 @@ Where I show you weekly updates of my work!
 - [Week 3](https://github.com/veronicaflores/veronicaflores.github.io/edit/main/BLOGME.md#week-3-july-11th---july-15th)
 - Week 4
 
-## Week 1 (June 27th - July 1st)
+## [Week 1 (June 27th - July 1st)](WEEK1.md)
 
 **June 27th:** <br/>    
 I began my research this week in person where I met with Professor Vicente Ordóñez Román and we went over onboarding tasks and started to figure
