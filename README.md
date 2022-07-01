@@ -46,4 +46,4 @@ This summer, I plan to focus on image bias removal and analysis evaluating image
 gender or superirority, within image and text machine learning modules and begin brainstorming solutions to these biases. 
 
 
-veronicaflores.github.io
+https://veronicaflores.github.io/
