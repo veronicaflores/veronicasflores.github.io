@@ -52,8 +52,8 @@ In order to learn the Python information and coding for this research we use one
 Collab Notebook. 
 
 **July 1:** <br/>
-On this day we discussed progress on articles and learning about machine learning from the Professor's recorded lectures. As well as discussed
-what should be done for next week.
+On this day we discussed progress on reading and comprehending articles and learning about machine learning from the Professor's recorded lectures. 
+As well as discussed what should be done for next week.
 
 *Upcoming*
 - Run on Google Collab – the CLIP model
