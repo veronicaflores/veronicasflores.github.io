@@ -11,7 +11,7 @@ Where I show you weekly updates of my work!
 
 ## Week 1 (June 27th - July 1st)
 
-**June 27th:** <br/>    
+**June 27th:**  
 I began my research this week in person where I met with Professor Vicente Ordóñez Román and we went over onboarding tasks and started to figure
 out a more specific project that I would be working on this summer. Initially we discussed three different topics: vision+language generation, 
 image bias removal and analysis, image and text retrieval. However, we found that starting with bias removal and analysis would be good. 
