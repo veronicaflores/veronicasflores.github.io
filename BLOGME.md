@@ -4,7 +4,7 @@ Where I show you weekly updates of my work!
 [Back to Home Page](README.md)
 
 ### Table of Contents
-- Week 1
+- [Week 1](https://github.com/veronicaflores/veronicaflores.github.io/blob/main/BLOGME.md#week-1-june-27th---july-1st)
 - Week 2
 - Week 3
 - Week 4
